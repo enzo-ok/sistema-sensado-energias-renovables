@@ -1,0 +1,17 @@
+USER: enzodallcolle
+PASS: elec22
+
+serial0 -> ttyS0  --> ese usé
+serial1 -> ttyAMA0
+
+programar GPIO
+dtoverlay=uart1,txd1_pin=32,rxd1_pin=33 por ejemplo
+
+Pines UART:
+PIN 8 UART TX
+PIN10 UART RX
+
+BAUDRATE EN 115200
+
+abrir minicom y leer uart:
+minicom -b 115200 -o -D /dev/ttyS0

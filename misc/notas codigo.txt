@@ -1,0 +1,3 @@
+enviar string = UART_Tx_string(send,cant);
+donde send es un char de tamaño LONG_DATA_FIELD y cant es la cantidad de caracteres
+
