@@ -1,4 +1,4 @@
--->Enlace de datos entre los distintos sistemas de generación y conversión de energías renovables (ejemplo: termotanque solar) y el Laboratorio de Electrónica de la Facultad de Ingeniería de la UCC, donde se supervisa su correcto funcionamiento.
+-->Enlace de datos entre los distintos sistemas de generación y conversión de energías renovables (ejemplo: anemómetro) y el Laboratorio de Electrónica de la Facultad de Ingeniería de la UCC, donde se supervisa su correcto funcionamiento.
 
 -->Adquisición de datos mediante sensores conectados a cada módulo y su respectiva placa de expansión.
 
